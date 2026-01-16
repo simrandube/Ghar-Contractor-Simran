@@ -16,4 +16,4 @@
 
 ## Team
 - **Team Lead:** Shivraj Jadhav
-- **Voice Captain** Manali Desai
+- **Vice Captain** Manali Desai
